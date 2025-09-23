@@ -40,8 +40,10 @@ your-repo/
 │   └── classification/  # 情感分析、文本分类
 │
 ├── cv/                  # 计算机视觉
-    ├── image-classification/ # 图像分类
-    ├── object-detection/     # 目标检测
-    └── segmentation/         # 图像分割
-
+│   ├── image-classification/ # 图像分类
+│   ├── object-detection/     # 目标检测
+│   └── segmentation/         # 图像分割
+│
+├── paper/                # 论文
+│   └── readme.md         # 论文说明
 ```
